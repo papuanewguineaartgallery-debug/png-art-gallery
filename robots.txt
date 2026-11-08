@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pngartgallery.netlify.app/sitemap.xml
